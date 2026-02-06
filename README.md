@@ -114,21 +114,21 @@ jupyter notebook Forest_Cover_Type_Prediction.ipynb
 ---
 
 ## 🔮 Future Improvements
-Apply feature scaling using StandardScaler
-Increase max_iter to resolve convergence warnings
-Try tree-based models (Random Forest, XGBoost)
-Perform hyperparameter tuning
-Analyze feature importance
-Add confusion matrix visualization
+- Apply feature scaling using StandardScaler
+- Increase max_iter to resolve convergence warnings
+- Try tree-based models (Random Forest, XGBoost)
+- Perform hyperparameter tuning
+- Analyze feature importance
+- Add confusion matrix visualization
 
 ---
 
 👨‍💻 Author
 
-Syed Hussain Abdul Hakeem
+**Syed Hussain Abdul Hakeem**
 
-LinkedIn: https://www.linkedin.com/in/syed-hussain-abdul-hakeem
-GitHub: https://github.com/SyedHussain23
+- LinkedIn: https://www.linkedin.com/in/syed-hussain-abdul-hakeem
+- GitHub: https://github.com/SyedHussain23
 
 ---
 
